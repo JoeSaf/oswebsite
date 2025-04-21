@@ -1,0 +1,219 @@
+# Base and essential tools
+base
+linux
+linux-firmware
+amd-ucode
+intel-ucode
+arch-install-scripts
+archinstall
+mkinitcpio
+mkinitcpio-archiso
+mkinitcpio-nfs-utils
+grub
+efibootmgr
+refind
+syslinux
+
+# Filesystems and storage
+btrfs-progs
+e2fsprogs
+dosfstools
+ntfs-3g
+exfatprogs
+f2fs-tools
+xfsprogs
+nilfs-utils
+jfsutils
+bcachefs-tools
+cryptsetup
+lvm2
+mdadm
+parted
+partclone
+gpart
+gptfdisk
+fsarchiver
+testdisk
+fatresize
+
+# Networking
+dhclient
+dhcpcd
+ppp
+rp-pppoe
+pptpclient
+networkmanager
+network-manager-applet
+nmap
+tcpdump
+wireless_tools
+wireless-regdb
+iw
+iwd
+wpa_supplicant
+openvpn
+openssh
+openconnect
+vpnc
+xl2tpd
+modemmanager
+nbd
+open-iscsi
+ethtool
+ndisc6
+dnsmasq
+bind
+darkhttpd
+rsync
+reflector
+curl
+wget
+lftp
+
+# Boot utils
+memtest86+
+memtest86+-efi
+usb_modeswitch
+usbmuxd
+usbutils
+
+# Console / CLI utils
+vim
+nano
+mc
+less
+htop
+neofetch
+tmux
+screen
+pv
+grml-zsh-config
+zsh
+lynx
+irssi
+
+# Audio/Video & Sound
+alsa-utils
+pavucontrol
+pipewire
+volumeicon
+sof-firmware
+
+# Terminal and X utilities
+lxterminal
+gnome-terminal
+xterm
+kitty-terminfo
+foot-terminfo
+rxvt-unicode-terminfo
+rofi
+xcompmgr
+
+# Input/output
+tpm2-tools
+tpm2-tss
+smartmontools
+gpm
+hdparm
+sdparm
+dmidecode
+lsscsi
+sg3_utils
+dmraid
+
+# Archiso / LiveCD
+archiso
+livecd-sounds
+
+# GUI and themes
+lxappearance
+materia-gtk-theme
+obsidian-icon-theme
+xcursor-themes
+nitrogen
+
+# Display / X / Drivers
+xorg
+xorg-server
+xorg-xinit
+xf86-video-amdgpu
+xf86-video-intel
+xf86-video-nouveau
+xf86-video-ati
+xf86-video-qxl
+xf86-video-vmware
+xf86-video-vesa
+xf86-video-fbdev
+mesa
+libva-mesa-driver
+libva-intel-driver
+vulkan-intel
+vulkan-radeon
+intel-media-driver
+
+# KDE/Plasma (optional - comment if Openbox only)
+konsole
+dolphin
+kate
+plasma
+plasma-desktop
+plasma-nm
+plasma-disks
+sddm
+
+# Openbox environment
+# openbox
+# tint2
+# nemo
+# pluma
+# mate-polkit
+# lightdm
+# lightdm-gtk-greeter
+# yad
+# gxmessage
+
+# Web/Network
+firefox
+
+# Gnome GVFS support
+gvfs
+gvfs-afc
+gvfs-dnssd
+gvfs-goa
+gvfs-google
+gvfs-gphoto2
+gvfs-mtp
+gvfs-nfs
+gvfs-onedrive
+gvfs-smb
+gvfs-wsdd
+
+# Extra support
+apache
+php
+webkit2gtk
+webkit2gtk-4.1
+webkitgtk-6.0
+gstreamer
+xdg-utils
+zenity
+malcontent
+loupe
+grilo-plugins
+sequoia-sq
+openpgp-card-tools
+libfido2
+libusb-compat
+edk2-shell
+brltty
+
+# Virtualization & Guest Additions
+qemu-guest-agent
+virtualbox-guest-utils-nox
+hyperv
+spice
+spice-gtk
+spice-vdagent
+spice-protocol
+spice-up
+
